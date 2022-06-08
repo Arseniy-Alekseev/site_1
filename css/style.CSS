@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    font-size: 20px; 
+}
+
+li{
+    font-size: 23px;
+    color: green;
+}
+.item{
+    margin: 0 ;
+}
+.item1{
+    padding: 10px ;
+      border: 2px solid black;
+       color: white;
+        height: 155px;
+         box-shadow: 0 0 10px;
+           background: rgb(1, 1, 39)
+
+}
+
+.container1{
+    grid-template: 1fr;
+      display: grid;
+}
